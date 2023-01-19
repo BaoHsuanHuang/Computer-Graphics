@@ -1,0 +1,3 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLFramework-VS2017.vcxproj -> C:\Users\Amy\Desktop\AS01\AS01_Framework\HW1_VS2017_Framework\x64\Debug\OpenGLFramework-VS2017.exe
+  OpenGLFramework-VS2017.vcxproj -> C:\Users\Amy\Desktop\AS01\AS01_Framework\HW1_VS2017_Framework\x64\Debug\OpenGLFramework-VS2017.pdb (Partial PDB)
